@@ -1,0 +1,100 @@
+Harry Potter and the Philosopher's Stone|J. K. Rowling|1965
+Harry Potter and the Chamber of Secrets|J. K. Rowling|1965
+Harry Potter and the Prisoner of Azkaban|J. K. Rowling|1965
+Harry Potter and the Half-Blood Prince|J. K. Rowling|1965
+Harry Potter and the Order of the Phoenix|J. K. Rowling|1965
+Harry Potter and the Goblet of Fire|J. K. Rowling|1965
+Harry Potter and the Deathly Hallows|J. K. Rowling|1965
+The Hobbit; or There and Back Again|J. R. R. Tolkien|1916
+1984|George Orwell|1903
+Pride and Prejudice|Jane Austen|1775
+The Da Vinci Code|Dan Brown|1964
+To Kill a Mockingbird|Harper Lee|1926
+The Catcher in the Rye|J. D. Salinger|1919
+The Great Gatsby|F. Scott Fitzgerald|1896
+Twilight|Stephenie Meyer|1973
+The Hunger Games|Suzanne Collins|1962
+Kite Runner|Khaled Hosseini|1965
+Jane Eyre|Charlotte Brontë|1816
+Animal Farm|George Orwell|1903
+Brave New World|Aldous Huxley|1894
+The Lord of the Rings|J. R. R. Tolkien|1916
+Angels & Demons|Dan Brown|1964
+The Fellowship of the Ring: Being the First Part of The Lord of the Rings|J. R. R. Tolkien|1916
+New Moon|Stephenie Meyer|1973
+Fahrenheit 451|Ray Bradbury|1920
+The Curious Incident of the Dog in the Night-Time|Mark Haddon|1962
+Wuthering Heights|Emily Brontë|1818
+Lord of the Flies|William Golding|1911
+Life of Pi|Yann Martel|1963
+Eclipse|Stephenie Meyer|1973
+Slaughterhouse-Five|Kurt Vonnegut|1922
+One Hundred Years of Solitude|Gabriel Garcia Marquez|1927
+The Time Traveler's Wife|Audrey Niffenegger|1963
+The Two Towers: Being the Second Part of The Lord of the Rings|J. R. R. Tolkien|1916
+The Girl with the Dragon Tattoo|Stieg Larsson|1954
+Catching Fire|Suzanne Collins|1962
+The Return of the King: Being the Third Part of The Lord of the Rings|J. R. R. Tolkien|1916
+Crime and Punishment|Fyodor Dostoevsky|1821
+Ender's Game|Orson Scott Card|1951
+Breaking Dawn|Stephenie Meyer|1973
+Catch-22|Joseph Heller|1923
+The Book Thief|Markus Zusak|1975
+Memoirs of a Geisha|Arthur Golden|1956
+Adventures of Huckleberry Finn|Mark Twain|1835
+The Lovely Bones|Alice Sebold|1963
+The Lion, the Witch and the Wardrobe|C. S. Lewis|1898
+Mockingjay|Suzanne Collins|1962
+A Game of Thrones|George R. R. Martin|1948
+The Little Prince|Antoine de Saint-Exupéry|1900
+The Hitchhiker's Guide to the Galaxy|Douglas Adams|1952
+Of Mice and Men|John Steinbeck|1902
+Anna Karenina|Leo Tolstoy|1828
+The Handmaid's Tale|Margaret Atwood|1939
+Sense and Sensibility|Jane Austen|1775
+Frankenstein|Mary Shelley|1797
+The Alchemist|Paulo Coelho|1947
+Emma|Jane Austen|1775
+Great Expectations|Charles Dickens|1812
+The Golden Compass|Philip Pullman|1946
+The Giver|Lois Lowry|1937
+Dune|Frank Herbert|1920
+American Gods|Neil Gaiman|1960
+The Road|Cormac McCarthy|1933
+The Stranger|Albert Camus|1913
+A Wrinkle in Time|Madeleine L'Engle|1918
+The Picture of Dorian Gray|Oscar Wilde|1854
+The Scarlet Letter|Nathaniel Hawthorne|1804
+A tale of two cities|Charles Dickens|1812
+The Chronicles of Narnia|C. S. Lewis|1898
+The Grapes of Wrath|John Steinbeck|1902
+Lolita|Vladimir Nabokov|1899
+Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch|Terry Pratchett|1948
+The Silmarillion|J. R. R. Tolkien|1916
+Moby Dick|Herman Melville|1819
+The Complete Works of William Shakespeare|William Shakespeare|1564
+Water for Elephants: A Novel|Sara Gruen|1969
+A Thousand Splendid Suns|Khaled Hosseini|1965
+Eragon|Christopher Paolini|1983
+Dracula|Bram Stoker|1847
+The Girl Who Played with Fire|Stieg Larsson|1954
+Hamlet|William Shakespeare|1564
+Charlotte's Web|E. B. White|1899
+Wicked|Gregory Maguire|1954
+Middlesex|Jeffrey Eugenides|1960
+The Help|Kathryn Stockett|1969
+On the Road|Jack Kerouac|1922
+The Secret Life of Bees|Sue Monk Kidd|1948
+The Secret Garden|Frances Hodgson Burnett|1849
+Atonement|Ian McEwan|1948
+Jonathan Strange & Mr. Norrell: A Novel|Susanna Clarke|1959
+The Poisonwood Bible|Barbara Kingsolver|1955
+The shadow of wind|Carlos Ruiz Zafón|1964
+Love in The Time of Cholera|Gabriel Garcia Marquez|1927
+The Old Man and The Sea|Ernest Hemingway|1899
+The Brothers Karamazov|Fyodor Dostoevsky|1821
+Treasure Island|Robert Louis Stevenson|1850
+A Clash of Kings|George R. R. Martin|1948
+Freakonomics: A Rogue Economist Explores the Hidden Side of Everything|Steven D. Levitt|1967
+The Screwtape Letters|C. S. Lewis|1898
+Clockwork Angel|Cassandra Clare|1973
