@@ -1,0 +1,802 @@
+[
+  {
+    "author": {
+      "lastName": "Rowling",
+      "birthYear": 1965,
+      "firstName": "J. K."
+    },
+    "title": "Harry Potter and the Philosopher's Stone"
+  },
+  {
+    "author": {
+      "lastName": "Rowling",
+      "birthYear": 1965,
+      "firstName": "J. K."
+    },
+    "title": "Harry Potter and the Chamber of Secrets"
+  },
+  {
+    "author": {
+      "lastName": "Rowling",
+      "birthYear": 1965,
+      "firstName": "J. K."
+    },
+    "title": "Harry Potter and the Prisoner of Azkaban"
+  },
+  {
+    "author": {
+      "lastName": "Rowling",
+      "birthYear": 1965,
+      "firstName": "J. K."
+    },
+    "title": "Harry Potter and the Half-Blood Prince"
+  },
+  {
+    "author": {
+      "lastName": "Rowling",
+      "birthYear": 1965,
+      "firstName": "J. K."
+    },
+    "title": "Harry Potter and the Order of the Phoenix"
+  },
+  {
+    "author": {
+      "lastName": "Rowling",
+      "birthYear": 1965,
+      "firstName": "J. K."
+    },
+    "title": "Harry Potter and the Goblet of Fire"
+  },
+  {
+    "author": {
+      "lastName": "Rowling",
+      "birthYear": 1965,
+      "firstName": "J. K."
+    },
+    "title": "Harry Potter and the Deathly Hallows"
+  },
+  {
+    "author": {
+      "lastName": "Tolkien",
+      "birthYear": 1916,
+      "firstName": "J. R. R."
+    },
+    "title": "The Hobbit; or There and Back Again"
+  },
+  {
+    "author": {
+      "lastName": "Orwell",
+      "birthYear": 1903,
+      "firstName": "George"
+    },
+    "title": "1984"
+  },
+  {
+    "author": {
+      "lastName": "Austen",
+      "birthYear": 1775,
+      "firstName": "Jane"
+    },
+    "title": "Pride and Prejudice"
+  },
+  {
+    "author": {
+      "lastName": "Brown",
+      "birthYear": 1964,
+      "firstName": "Dan"
+    },
+    "title": "The Da Vinci Code"
+  },
+  {
+    "author": {
+      "lastName": "Lee",
+      "birthYear": 1926,
+      "firstName": "Harper"
+    },
+    "title": "To Kill a Mockingbird"
+  },
+  {
+    "author": {
+      "lastName": "Salinger",
+      "birthYear": 1919,
+      "firstName": "J. D."
+    },
+    "title": "The Catcher in the Rye"
+  },
+  {
+    "author": {
+      "lastName": "Fitzgerald",
+      "birthYear": 1896,
+      "firstName": "F. Scott"
+    },
+    "title": "The Great Gatsby"
+  },
+  {
+    "author": {
+      "lastName": "Meyer",
+      "birthYear": 1973,
+      "firstName": "Stephenie"
+    },
+    "title": "Twilight"
+  },
+  {
+    "author": {
+      "lastName": "Collins",
+      "birthYear": 1962,
+      "firstName": "Suzanne"
+    },
+    "title": "The Hunger Games"
+  },
+  {
+    "author": {
+      "lastName": "Hosseini",
+      "birthYear": 1965,
+      "firstName": "Khaled"
+    },
+    "title": "Kite Runner"
+  },
+  {
+    "author": {
+      "lastName": "Brontë",
+      "birthYear": 1816,
+      "firstName": "Charlotte"
+    },
+    "title": "Jane Eyre"
+  },
+  {
+    "author": {
+      "lastName": "Orwell",
+      "birthYear": 1903,
+      "firstName": "George"
+    },
+    "title": "Animal Farm"
+  },
+  {
+    "author": {
+      "lastName": "Huxley",
+      "birthYear": 1894,
+      "firstName": "Aldous"
+    },
+    "title": "Brave New World"
+  },
+  {
+    "author": {
+      "lastName": "Tolkien",
+      "birthYear": 1916,
+      "firstName": "J. R. R."
+    },
+    "title": "The Lord of the Rings"
+  },
+  {
+    "author": {
+      "lastName": "Brown",
+      "birthYear": 1964,
+      "firstName": "Dan"
+    },
+    "title": "Angels & Demons"
+  },
+  {
+    "author": {
+      "lastName": "Tolkien",
+      "birthYear": 1916,
+      "firstName": "J. R. R."
+    },
+    "title": "The Fellowship of the Ring: Being the First Part of The Lord of the Rings"
+  },
+  {
+    "author": {
+      "lastName": "Meyer",
+      "birthYear": 1973,
+      "firstName": "Stephenie"
+    },
+    "title": "New Moon"
+  },
+  {
+    "author": {
+      "lastName": "Bradbury",
+      "birthYear": 1920,
+      "firstName": "Ray"
+    },
+    "title": "Fahrenheit 451"
+  },
+  {
+    "author": {
+      "lastName": "Haddon",
+      "birthYear": 1962,
+      "firstName": "Mark"
+    },
+    "title": "The Curious Incident of the Dog in the Night-Time"
+  },
+  {
+    "author": {
+      "lastName": "Brontë",
+      "birthYear": 1818,
+      "firstName": "Emily"
+    },
+    "title": "Wuthering Heights"
+  },
+  {
+    "author": {
+      "lastName": "Golding",
+      "birthYear": 1911,
+      "firstName": "William"
+    },
+    "title": "Lord of the Flies"
+  },
+  {
+    "author": {
+      "lastName": "Martel",
+      "birthYear": 1963,
+      "firstName": "Yann"
+    },
+    "title": "Life of Pi"
+  },
+  {
+    "author": {
+      "lastName": "Meyer",
+      "birthYear": 1973,
+      "firstName": "Stephenie"
+    },
+    "title": "Eclipse"
+  },
+  {
+    "author": {
+      "lastName": "Vonnegut",
+      "birthYear": 1922,
+      "firstName": "Kurt"
+    },
+    "title": "Slaughterhouse-Five"
+  },
+  {
+    "author": {
+      "lastName": "Marquez",
+      "birthYear": 1927,
+      "firstName": "Gabriel Garcia"
+    },
+    "title": "One Hundred Years of Solitude"
+  },
+  {
+    "author": {
+      "lastName": "Niffenegger",
+      "birthYear": 1963,
+      "firstName": "Audrey"
+    },
+    "title": "The Time Traveler's Wife"
+  },
+  {
+    "author": {
+      "lastName": "Tolkien",
+      "birthYear": 1916,
+      "firstName": "J. R. R."
+    },
+    "title": "The Two Towers: Being the Second Part of The Lord of the Rings"
+  },
+  {
+    "author": {
+      "lastName": "Larsson",
+      "birthYear": 1954,
+      "firstName": "Stieg"
+    },
+    "title": "The Girl with the Dragon Tattoo"
+  },
+  {
+    "author": {
+      "lastName": "Collins",
+      "birthYear": 1962,
+      "firstName": "Suzanne"
+    },
+    "title": "Catching Fire"
+  },
+  {
+    "author": {
+      "lastName": "Tolkien",
+      "birthYear": 1916,
+      "firstName": "J. R. R."
+    },
+    "title": "The Return of the King: Being the Third Part of The Lord of the Rings"
+  },
+  {
+    "author": {
+      "lastName": "Dostoevsky",
+      "birthYear": 1821,
+      "firstName": "Fyodor"
+    },
+    "title": "Crime and Punishment"
+  },
+  {
+    "author": {
+      "lastName": "Card",
+      "birthYear": 1951,
+      "firstName": "Orson Scott"
+    },
+    "title": "Ender's Game"
+  },
+  {
+    "author": {
+      "lastName": "Meyer",
+      "birthYear": 1973,
+      "firstName": "Stephenie"
+    },
+    "title": "Breaking Dawn"
+  },
+  {
+    "author": {
+      "lastName": "Heller",
+      "birthYear": 1923,
+      "firstName": "Joseph"
+    },
+    "title": "Catch-22"
+  },
+  {
+    "author": {
+      "lastName": "Zusak",
+      "birthYear": 1975,
+      "firstName": "Markus"
+    },
+    "title": "The Book Thief"
+  },
+  {
+    "author": {
+      "lastName": "Golden",
+      "birthYear": 1956,
+      "firstName": "Arthur"
+    },
+    "title": "Memoirs of a Geisha"
+  },
+  {
+    "author": {
+      "lastName": "Twain",
+      "birthYear": 1835,
+      "firstName": "Mark"
+    },
+    "title": "Adventures of Huckleberry Finn"
+  },
+  {
+    "author": {
+      "lastName": "Sebold",
+      "birthYear": 1963,
+      "firstName": "Alice"
+    },
+    "title": "The Lovely Bones"
+  },
+  {
+    "author": {
+      "lastName": "Lewis",
+      "birthYear": 1898,
+      "firstName": "C. S."
+    },
+    "title": "The Lion, the Witch and the Wardrobe"
+  },
+  {
+    "author": {
+      "lastName": "Collins",
+      "birthYear": 1962,
+      "firstName": "Suzanne"
+    },
+    "title": "Mockingjay"
+  },
+  {
+    "author": {
+      "lastName": "Martin",
+      "birthYear": 1948,
+      "firstName": "George R. R."
+    },
+    "title": "A Game of Thrones"
+  },
+  {
+    "author": {
+      "lastName": "Saint-Exupéry",
+      "birthYear": 1900,
+      "firstName": "Antoine de"
+    },
+    "title": "The Little Prince"
+  },
+  {
+    "author": {
+      "lastName": "Adams",
+      "birthYear": 1952,
+      "firstName": "Douglas"
+    },
+    "title": "The Hitchhiker's Guide to the Galaxy"
+  },
+  {
+    "author": {
+      "lastName": "Steinbeck",
+      "birthYear": 1902,
+      "firstName": "John"
+    },
+    "title": "Of Mice and Men"
+  },
+  {
+    "author": {
+      "lastName": "Tolstoy",
+      "birthYear": 1828,
+      "firstName": "Leo"
+    },
+    "title": "Anna Karenina"
+  },
+  {
+    "author": {
+      "lastName": "Atwood",
+      "birthYear": 1939,
+      "firstName": "Margaret"
+    },
+    "title": "The Handmaid's Tale"
+  },
+  {
+    "author": {
+      "lastName": "Austen",
+      "birthYear": 1775,
+      "firstName": "Jane"
+    },
+    "title": "Sense and Sensibility"
+  },
+  {
+    "author": {
+      "lastName": "Shelley",
+      "birthYear": 1797,
+      "firstName": "Mary"
+    },
+    "title": "Frankenstein"
+  },
+  {
+    "author": {
+      "lastName": "Coelho",
+      "birthYear": 1947,
+      "firstName": "Paulo"
+    },
+    "title": "The Alchemist"
+  },
+  {
+    "author": {
+      "lastName": "Austen",
+      "birthYear": 1775,
+      "firstName": "Jane"
+    },
+    "title": "Emma"
+  },
+  {
+    "author": {
+      "lastName": "Dickens",
+      "birthYear": 1812,
+      "firstName": "Charles"
+    },
+    "title": "Great Expectations"
+  },
+  {
+    "author": {
+      "lastName": "Pullman",
+      "birthYear": 1946,
+      "firstName": "Philip"
+    },
+    "title": "The Golden Compass"
+  },
+  {
+    "author": {
+      "lastName": "Lowry",
+      "birthYear": 1937,
+      "firstName": "Lois"
+    },
+    "title": "The Giver"
+  },
+  {
+    "author": {
+      "lastName": "Herbert",
+      "birthYear": 1920,
+      "firstName": "Frank"
+    },
+    "title": "Dune"
+  },
+  {
+    "author": {
+      "lastName": "Gaiman",
+      "birthYear": 1960,
+      "firstName": "Neil"
+    },
+    "title": "American Gods"
+  },
+  {
+    "author": {
+      "lastName": "McCarthy",
+      "birthYear": 1933,
+      "firstName": "Cormac"
+    },
+    "title": "The Road"
+  },
+  {
+    "author": {
+      "lastName": "Camus",
+      "birthYear": 1913,
+      "firstName": "Albert"
+    },
+    "title": "The Stranger"
+  },
+  {
+    "author": {
+      "lastName": "L'Engle",
+      "birthYear": 1918,
+      "firstName": "Madeleine"
+    },
+    "title": "A Wrinkle in Time"
+  },
+  {
+    "author": {
+      "lastName": "Wilde",
+      "birthYear": 1854,
+      "firstName": "Oscar"
+    },
+    "title": "The Picture of Dorian Gray"
+  },
+  {
+    "author": {
+      "lastName": "Hawthorne",
+      "birthYear": 1804,
+      "firstName": "Nathaniel"
+    },
+    "title": "The Scarlet Letter"
+  },
+  {
+    "author": {
+      "lastName": "Dickens",
+      "birthYear": 1812,
+      "firstName": "Charles"
+    },
+    "title": "A tale of two cities"
+  },
+  {
+    "author": {
+      "lastName": "Lewis",
+      "birthYear": 1898,
+      "firstName": "C. S."
+    },
+    "title": "The Chronicles of Narnia"
+  },
+  {
+    "author": {
+      "lastName": "Steinbeck",
+      "birthYear": 1902,
+      "firstName": "John"
+    },
+    "title": "The Grapes of Wrath"
+  },
+  {
+    "author": {
+      "lastName": "Nabokov",
+      "birthYear": 1899,
+      "firstName": "Vladimir"
+    },
+    "title": "Lolita"
+  },
+  {
+    "author": {
+      "lastName": "Pratchett",
+      "birthYear": 1948,
+      "firstName": "Terry"
+    },
+    "title": "Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch"
+  },
+  {
+    "author": {
+      "lastName": "Tolkien",
+      "birthYear": 1916,
+      "firstName": "J. R. R."
+    },
+    "title": "The Silmarillion"
+  },
+  {
+    "author": {
+      "lastName": "Melville",
+      "birthYear": 1819,
+      "firstName": "Herman"
+    },
+    "title": "Moby Dick"
+  },
+  {
+    "author": {
+      "lastName": "Shakespeare",
+      "birthYear": 1564,
+      "firstName": "William"
+    },
+    "title": "The Complete Works of William Shakespeare"
+  },
+  {
+    "author": {
+      "lastName": "Gruen",
+      "birthYear": 1969,
+      "firstName": "Sara"
+    },
+    "title": "Water for Elephants: A Novel"
+  },
+  {
+    "author": {
+      "lastName": "Hosseini",
+      "birthYear": 1965,
+      "firstName": "Khaled"
+    },
+    "title": "A Thousand Splendid Suns"
+  },
+  {
+    "author": {
+      "lastName": "Paolini",
+      "birthYear": 1983,
+      "firstName": "Christopher"
+    },
+    "title": "Eragon"
+  },
+  {
+    "author": {
+      "lastName": "Stoker",
+      "birthYear": 1847,
+      "firstName": "Bram"
+    },
+    "title": "Dracula"
+  },
+  {
+    "author": {
+      "lastName": "Larsson",
+      "birthYear": 1954,
+      "firstName": "Stieg"
+    },
+    "title": "The Girl Who Played with Fire"
+  },
+  {
+    "author": {
+      "lastName": "Shakespeare",
+      "birthYear": 1564,
+      "firstName": "William"
+    },
+    "title": "Hamlet"
+  },
+  {
+    "author": {
+      "lastName": "White",
+      "birthYear": 1899,
+      "firstName": "E. B."
+    },
+    "title": "Charlotte's Web"
+  },
+  {
+    "author": {
+      "lastName": "Maguire",
+      "birthYear": 1954,
+      "firstName": "Gregory"
+    },
+    "title": "Wicked"
+  },
+  {
+    "author": {
+      "lastName": "Eugenides",
+      "birthYear": 1960,
+      "firstName": "Jeffrey"
+    },
+    "title": "Middlesex"
+  },
+  {
+    "author": {
+      "lastName": "Stockett",
+      "birthYear": 1969,
+      "firstName": "Kathryn"
+    },
+    "title": "The Help"
+  },
+  {
+    "author": {
+      "lastName": "Kerouac",
+      "birthYear": 1922,
+      "firstName": "Jack"
+    },
+    "title": "On the Road"
+  },
+  {
+    "author": {
+      "lastName": "Kidd",
+      "birthYear": 1948,
+      "firstName": "Sue Monk"
+    },
+    "title": "The Secret Life of Bees"
+  },
+  {
+    "author": {
+      "lastName": "Burnett",
+      "birthYear": 1849,
+      "firstName": "Frances Hodgson"
+    },
+    "title": "The Secret Garden"
+  },
+  {
+    "author": {
+      "lastName": "McEwan",
+      "birthYear": 1948,
+      "firstName": "Ian"
+    },
+    "title": "Atonement"
+  },
+  {
+    "author": {
+      "lastName": "Clarke",
+      "birthYear": 1959,
+      "firstName": "Susanna"
+    },
+    "title": "Jonathan Strange & Mr. Norrell: A Novel"
+  },
+  {
+    "author": {
+      "lastName": "Kingsolver",
+      "birthYear": 1955,
+      "firstName": "Barbara"
+    },
+    "title": "The Poisonwood Bible"
+  },
+  {
+    "author": {
+      "lastName": "Zafón",
+      "birthYear": 1964,
+      "firstName": "Carlos Ruiz"
+    },
+    "title": "The shadow of wind"
+  },
+  {
+    "author": {
+      "lastName": "Marquez",
+      "birthYear": 1927,
+      "firstName": "Gabriel Garcia"
+    },
+    "title": "Love in The Time of Cholera"
+  },
+  {
+    "author": {
+      "lastName": "Hemingway",
+      "birthYear": 1899,
+      "firstName": "Ernest"
+    },
+    "title": "The Old Man and The Sea"
+  },
+  {
+    "author": {
+      "lastName": "Dostoevsky",
+      "birthYear": 1821,
+      "firstName": "Fyodor"
+    },
+    "title": "The Brothers Karamazov"
+  },
+  {
+    "author": {
+      "lastName": "Stevenson",
+      "birthYear": 1850,
+      "firstName": "Robert Louis"
+    },
+    "title": "Treasure Island"
+  },
+  {
+    "author": {
+      "lastName": "Martin",
+      "birthYear": 1948,
+      "firstName": "George R. R."
+    },
+    "title": "A Clash of Kings"
+  },
+  {
+    "author": {
+      "lastName": "Levitt",
+      "birthYear": 1967,
+      "firstName": "Steven D."
+    },
+    "title": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything"
+  },
+  {
+    "author": {
+      "lastName": "Lewis",
+      "birthYear": 1898,
+      "firstName": "C. S."
+    },
+    "title": "The Screwtape Letters"
+  },
+  {
+    "author": {
+      "lastName": "Clare",
+      "birthYear": 1973,
+      "firstName": "Cassandra"
+    },
+    "title": "Clockwork Angel"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "author": {
+      "lastName": "Rowling",
+      "birthYear": 1965,
+      "firstName": "J. K."
+    },
+    "title": "Harry Potter and the Philosopher's Stone"
+  },
+  {
+    "author": {
+      "lastName": "Orwell",
+      "birthYear": 1903,
+      "firstName": "George"
+    },
+    "title": "1984"
+  }
+]
