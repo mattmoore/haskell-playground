@@ -1,0 +1,52 @@
+name:                parallelism
+version:             0.1.0.0
+github:              "mattmoore/haskell-examples/tree/master/parallelism"
+license:             MIT
+author:              "Matt Moore"
+maintainer:          "mattmoore@carbonhelix.com"
+copyright:           "2018 Matt Moore"
+
+extra-source-files:
+- README.md
+- ChangeLog.md
+
+# Metadata used when publishing your package
+# synopsis:            Short description of your package
+# category:            Web
+
+# To avoid duplicated efforts in documentation and dealing with the
+# complications of embedding Haddock markup inside cabal files, it is
+# common to point users to the README.md file.
+description:         Please see the README on GitHub at <https://github.com/mattmoore/haskell-examples/tree/master/parallelism#readme>
+
+dependencies:
+- base >= 4.7 && < 5
+
+library:
+  source-dirs: src
+  dependencies:
+  - parallel
+
+executables:
+  parallelism-exe:
+    main:                Main.hs
+    source-dirs:         app
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - parallelism
+
+tests:
+  parallelism-test:
+    main:                Spec.hs
+    source-dirs:         test
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - hspec
+    - hspec-discover
+    - parallelism
