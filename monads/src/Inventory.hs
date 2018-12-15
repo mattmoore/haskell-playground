@@ -1,16 +1,14 @@
+{-# LANGUAGE DeriveGeneric #-}
+
 module Inventory where
 
-import           Data.List
+import           Data.Aeson
+import           GHC.Generics
 
 data Inventory = Inventory {
-  id   :: Integer,
-  name :: String
-} deriving (Eq, Show)
+  name   :: String,
+  amount :: Float
+} deriving (Eq, Show, Generic)
 
-add :: Inventory -> [Inventory] -> IO [Inventory]
-add item inventory = do
-  return $ item : inventory
-
-remove :: Integer -> [Inventory] -> IO [Inventory]
-remove itemId inventory = do
-  return $ filter (\x -> Inventory.id x /= itemId) inventory
+instance FromJSON Inventory
+instance ToJSON Inventory

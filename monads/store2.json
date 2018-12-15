@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "transactions": [
+        {
+          "amount": 25.5
+        }
+      ],
+      "lastName": "Moore",
+      "firstName": "Matt",
+      "id": 1
+    },
+    {
+      "transactions": [
+        {
+          "amount": 25.5
+        }
+      ],
+      "lastName": "Doe",
+      "firstName": "John",
+      "id": 2
+    }
+  ],
+  "shipments": [],
+  "inventory": [
+    {
+      "name": "Cat food",
+      "id": 1
+    },
+    {
+      "name": "Cat food",
+      "id": 2
+    },
+    {
+      "name": "Cat food",
+      "id": 3
+    }
+  ]
+}

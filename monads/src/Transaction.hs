@@ -1,7 +1,13 @@
+{-# LANGUAGE DeriveGeneric #-}
+
 module Transaction where
 
-import           Data.Decimal
+import           Data.Aeson
+import           GHC.Generics
 
 data Transaction = Transaction {
-  amount :: Decimal
-} deriving (Eq, Show)
+  amount :: Float
+} deriving (Eq, Show, Generic)
+
+instance FromJSON Transaction
+instance ToJSON Transaction

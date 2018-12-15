@@ -1,24 +1,32 @@
+{-# LANGUAGE DeriveGeneric #-}
+
 module User where
 
-import           Data.Decimal
-import           Transaction
+import           Data.Aeson
+import           GHC.Generics
+import           Order
 
 data User = User {
   id           :: Integer,
   firstName    :: String,
   lastName     :: String,
+  orders       :: [Order],
   transactions :: [Transaction]
-} deriving (Eq, Show)
+} deriving (Eq, Show, Generic)
 
-charge :: User -> Decimal -> IO User
-charge user amount =
-  return $ User {
-    User.id           = (User.id        user),
-    User.firstName    = (User.firstName user),
-    User.lastName     = (User.lastName  user),
-    User.transactions = (Transaction amount) : (transactions user)
-  }
+instance FromJSON User
+instance ToJSON User
 
-balance :: User -> IO Decimal
-balance user =
-  return . sum . map amount . transactions $ user
+charge :: Store -> User -> Inventory -> IO Transaction
+charge store user item = do
+  let transaction = Transaction { amount = amount item }
+  let updatedUser = user { transactions = transaction : (transactions user) }
+  Store.save $ path store
+  return transaction
+
+placeOrder :: Store -> User -> Inventory -> IO Order
+placeOrder store user item = do
+  transaction <- User.charge store user item
+  inventory <- Inventory.remove store item
+  order <- Order.create store user item
+  return order
