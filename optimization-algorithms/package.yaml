@@ -1,0 +1,52 @@
+name:                optimization-algorithms
+version:             0.1.0.0
+github:              "mattmoore/optimization-algorithms"
+license:             MIT
+author:              "Matt Moore"
+maintainer:          "mattmoore@carbonhelix.com"
+copyright:           "2018 Matt Moore"
+
+extra-source-files:
+- README.md
+- ChangeLog.md
+
+# Metadata used when publishing your package
+# synopsis:            Short description of your package
+# category:            Web
+
+# To avoid duplicated efforts in documentation and dealing with the
+# complications of embedding Haddock markup inside cabal files, it is
+# common to point users to the README.md file.
+description:         Please see the README on GitHub at <https://github.com/mattmoore/optimization-algorithms#readme>
+
+dependencies:
+- base >= 4.7 && < 5
+
+library:
+  source-dirs: src
+  dependencies:
+  - aeson
+
+executables:
+  optimization-algorithms-exe:
+    main:                Main.hs
+    source-dirs:         app
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - optimization-algorithms
+
+tests:
+  optimization-algorithms-test:
+    main:                Spec.hs
+    source-dirs:         test
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - optimization-algorithms
+    - hspec
+    - hspec-discover
