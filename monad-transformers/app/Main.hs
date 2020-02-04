@@ -5,7 +5,15 @@ import Control.Monad.Trans.Maybe
 
 main :: IO ()
 main = do
-  maybeValue <- runMaybeT maybeTExample
-  case maybeValue of
-    Just x  -> putStrLn x
+
+  -- Here we get a value
+  maybeJust <- runMaybeT maybeTJust
+  case maybeJust of
     Nothing -> putStrLn "No value"
+    Just x  -> putStrLn x
+
+  -- Here we get nothing
+  maybeNothing <- runMaybeT maybeTNothing
+  case maybeNothing of
+    Nothing -> putStrLn "No value"
+    Just x  -> putStrLn x

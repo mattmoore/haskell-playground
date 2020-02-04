@@ -2,6 +2,10 @@ module Lib where
 
 import Control.Monad.Trans.Maybe
 
-maybeTExample :: MaybeT IO String
-maybeTExample = do
+maybeTJust :: MaybeT IO String
+maybeTJust = do
   return "My value"
+
+maybeTNothing :: MaybeT IO String
+maybeTNothing = do
+  MaybeT (return Nothing)
