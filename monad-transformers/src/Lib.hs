@@ -9,7 +9,7 @@ maybeTJust = do
 
 maybeTNothing :: MaybeT IO String
 maybeTNothing = do
-  MaybeT (return Nothing)
+  MaybeT $ return Nothing
 
 exceptTRight :: ExceptT String IO String
 exceptTRight = do
@@ -17,4 +17,4 @@ exceptTRight = do
 
 exceptTLeft :: ExceptT String IO String
 exceptTLeft = do
-  ExceptT (return (Left "No value found"))
+  ExceptT $ return $ Left "No value found"
