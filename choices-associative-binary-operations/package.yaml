@@ -1,0 +1,48 @@
+name:                choices-associative-binary-operations
+version:             0.1.0.0
+github:              "mattmoore/choices-associative-binary-operations"
+license:             BSD3
+author:              "Matt Moore"
+maintainer:          "matt@mattmoore.io"
+copyright:           "2020"
+
+extra-source-files:
+- README.md
+- ChangeLog.md
+
+# Metadata used when publishing your package
+# synopsis:            Short description of your package
+# category:            Web
+
+# To avoid duplicated efforts in documentation and dealing with the
+# complications of embedding Haddock markup inside cabal files, it is
+# common to point users to the README.md file.
+description:         Please see the README on GitHub at <https://github.com/mattmoore/haskell-examples/choices-associative-binary-operations#readme>
+
+dependencies:
+- base >= 4.7 && < 5
+
+library:
+  source-dirs: src
+
+executables:
+  choices-associative-binary-operations-exe:
+    main:                Main.hs
+    source-dirs:         app
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - choices-associative-binary-operations
+
+tests:
+  choices-associative-binary-operations-test:
+    main:                Spec.hs
+    source-dirs:         test
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - choices-associative-binary-operations
