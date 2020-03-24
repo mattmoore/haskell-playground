@@ -12,3 +12,6 @@ spec = do
 
     it "can also be applied to multiple monads" $ do
       Nothing <|> Just 1 <|> Just 2 <|> Just 3 `shouldBe` Just 1
+
+    it "works even if there's a Nothing in the middle" $ do
+      Nothing <|> Just 1 <|> Nothing <|> Just 3 `shouldBe` Just 1
