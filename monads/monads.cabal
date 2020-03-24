@@ -4,11 +4,11 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: e7b0acad96786d59bee5fca6cd7a058b22471c53e1def00ce274aec4009083f2
+-- hash: 6bb1ab5d02de32b5afc0652934085e9fa88483d42ed677ea221fa3ebdcf7ba4e
 
 name:           monads
 version:        0.1.0.0
-description:    Please see the README on GitHub at <https://github.com/mattmoore/monads#readme>
+description:    Please see the README on GitHub at <https://github.com/mattmoore/haskell-examples/tree/master/monads#readme>
 homepage:       https://github.com/mattmoore/monads#readme
 bug-reports:    https://github.com/mattmoore/monads/issues
 author:         Matt Moore
@@ -52,11 +52,13 @@ test-suite monads-test
   type: exitcode-stdio-1.0
   main-is: Spec.hs
   other-modules:
+      MaybeSpec
       Paths_monads
   hs-source-dirs:
       test
   ghc-options: -threaded -rtsopts -with-rtsopts=-N
   build-depends:
       base >=4.7 && <5
+    , hspec
     , monads
   default-language: Haskell2010
