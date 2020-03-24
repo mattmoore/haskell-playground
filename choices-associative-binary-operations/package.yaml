@@ -46,3 +46,4 @@ tests:
     - -with-rtsopts=-N
     dependencies:
     - choices-associative-binary-operations
+    - hspec
