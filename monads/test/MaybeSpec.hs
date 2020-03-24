@@ -12,3 +12,6 @@ spec = do
 
     it "has a Nothing type that contains no value and replaces 'null' found in many languages" $ do
       (Nothing :: Maybe ()) `shouldBe` (Nothing :: Maybe ())
+
+    it "can be mapped over" $ do
+      fmap (+1) (Just 1) `shouldBe` Just 2
